@@ -214,7 +214,7 @@ async def main():
                                 "type": "audio/pcm",
                                 "rate": SAMPLE_RATE
                             },
-                            "voice": "marin"
+                            "voice": "verse"
                         }
                     }
                 }
